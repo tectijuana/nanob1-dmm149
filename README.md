@@ -1,28 +1,14 @@
-![](http://www.bettshow.com/library_5/1738756_assocImage_2.png?rndUUID=935D8560-F6D9-649D-B65F22B5D35C8F97)
-
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/4970280.png" width="477" height="65" alt="T E M P L E T E" /></a>
-<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
-
-Plantilla generica de todo repositorio.
-
-1. Tutor básico de Git en 15 minutos http://try.github.com por CodeSchool
-2. Git Guru https://www.atlassian.com/git/tutorials por GitBucket
-3. Git comandos como glosario https://www.atlassian.com/git/glossary
-4. DZone resumen tutorial mas popular https://dzone.com/refcardz/getting-started-git
-5. Nuestro glosario español https://github.com/tectijuana/PlantillaInicio/blob/master/glosario.md
-
-----
-
-Git for Windows hay tres versiones pero la mas recomendable es https://git-scm.com/download/win Git For Windows 2
-
-----
-
-![](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/basics-linux-commands_orig.jpg)
-
-Aprender Linux básico 
-https://likegeeks.com/main-linux-commands-easy-guide/
-
-Tips de Linux para ser productivos
-https://dzone.com/articles/most-useful-linux-command-line-tricks?edition=306244&utm_source=weekly%20digest&utm_medium=email&utm_campaign=wd%202017-07-12
-
-
+# TEMARIO
+## 1.1 Introducción
+introduccion al curso de logica de programacion.
+![](http://tecnologiaenvivo.com/wp-content/uploads/2019/07/logicaaaaa.jpg)
+## 1.2 De los problemas a los programas
+Para los problemas cotidianos se pueden utilzar programas de computadora para facilitarlos.
+## 1.3 Definición de lenguaje
+Un lenguaje de programación es un lenguaje formal que proporciona una serie de instrucciones que permiten a un programador escribir secuencias de órdenes y algoritmos a modo de controlar el comportamiento físico y lógico de una computadora con el objetivo de que produzca diversas clases de datos. A todo este conjunto de órdenes y datos escritos mediante un lenguaje de programación se le conoce como programa.
+## 1.4 Definición de algoritmo
+En matemáticas, lógica, ciencias de la computación y disciplinas relacionadas, un algoritmo es un conjunto de instrucciones o reglas definidas y no-ambiguas, ordenadas y finitas que permite, típicamente, solucionar un problema, realizar un cómputo, procesar datos y llevar a cabo otras tareas o actividades.
+## 1.5 Algoritmos cotidianos
+La serie de pasos que realizamos en nuestra vida diaria para realizar las diferentes tareas y actividades comunes, desde los pasos al levantarnos, así como ir de compras, etc.
+## 1.6 Definición de lenguajes algorítmicos
+Es una serie de símbolos y reglas que se utilizan para describir de manera explícita un proceso. Teniendo en cuenta la forma en que describen el proceso, existen dos tipos de lenguajes algorítmicos: graficos y no graficos.
